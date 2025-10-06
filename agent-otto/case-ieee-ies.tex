@@ -5,6 +5,7 @@
 \usepackage{algorithmic}
 \usepackage{graphicx}
 \usepackage{textcomp}
+\usepackage{url}
 
 \def\BibTeX{{\rm B\kern-.05em{\sc i\kern-.025em b}\kern-.08em
     T\kern-.1667em\lower.7ex\hbox{E}\kern-.125emX}}
@@ -18,17 +19,14 @@
 %\tfootnote{This paragraph of the first footnote will contain support information, including sponsor and financial support acknowledgment. For example, ``This work was supported in part by the U.S. Department of Commerce under Grant BS123456.''}
 
 \markboth
-{Author \headeretal: Preparation of Papers for IEEE Open Journal of the IES}
-{Author \headeretal: Preparation of Papers for IEEE Open Journal of the IES}
+%{Castro and Pantoja \headeretal: Case Agent Otto - Projeto de Candidatura ao IEEE/IES Chapter (Outubro 2025)}
+{Castro and Pantoja, 2025: Case Agent Otto - Projeto de Candidatura ao IEEE/IES Chapter (Outubro 2025)}
+{Castro and Pantoja, 2025: Case Agent Otto - Projeto de Candidatura ao IEEE/IES Chapter (Outubro 2025)}
 
 \corresp{Corresponding author: Diego Cardoso Borda Castro (e-mail: diego.castro@cefet-rj.br).}
 
 \begin{abstract}
-These instructions give you guidelines for preparing papers for IEEE Open Journal of the Industrial Electronics Society. Use this document as a template if you are 
-using \LaTeX. Otherwise, use this document as an 
-instruction set. The electronic file of your paper will be formatted further at IEEE. Paper titles should be written in uppercase and lowercase letters, not all uppercase. Avoid writing long  with subscripts in the title; 
-short formulas that identify the elements are fine (e.g., "Nd--Fe--B"). Do not write ``(Invited)'' in the title. Full names of authors are preferred in the author field, but are not required. Put a space between authors' initials. The abstract must be a concise yet comprehensive reflection of what is in your article. In particular, the abstract must be self-contained, without abbreviations, footnotes, or references. It should be a microcosm of the full article. The abstract must be between 150--250 words. Be sure that you adhere to these limits; otherwise, you will need to edit your abstract accordingly. The abstract must be written as one paragraph, and should not contain displayed mathematical equations or tabular material. The abstract 
-should include three or four different keywords or phrases, as this will help readers to find it. It is important to avoid over-repetition of such phrases as this can result in a page being rejected by search engines. Ensure that your abstract reads well and is grammatically correct.
+    This work presents a practical task designed for candidates applying to the IEEE/IES Chapter at CEFET/RJ – Campus Maria da Graça. The activity aims to evaluate the student’s ability to design and implement an embedded intelligent system for robotic platform control. The task involves assembling the Otto robot, completing a short course on Distributed and Embedded Artificial Intelligence, and adapting the robot to be controlled by a Multi-Agent System (MAS). This includes installing the chonOS operating system on a Raspberry Pi, integrating Arduino control through the Javino protocol, and developing an agent-based controller capable of perceiving and acting autonomously. Finally, the candidate must prepare a technical report describing the implementation process, difficulties encountered, and technological solutions adopted, as well as present the results in a public session and through a short video publication on professional social networks.
 \end{abstract}
 
 \begin{keywords}
@@ -55,15 +53,15 @@ O candidato deverá realizar a montagem física do robô \textbf{Otto}, utilizan
 
 \subsection{Curso de Inteligência Artificial Distribuída e Embarcada}
 
-O aluno deverá participar e concluir o curso de \textbf{Inteligência Artificial Distribuída e Embarcada}, cujo objetivo é introduzir os conceitos de agentes embarcados, sistemas multiagentes e comunicação distribuída em plataformas físicas. O curso fornecerá os fundamentos teóricos e práticos necessários para compreender o funcionamento de um SMA aplicado a sistemas robóticos, incluindo o uso de arquiteturas Belief-Desire-Intention (BDI)~\cite{Bratman1987} e ferramentas de simulação e controle.
+O aluno deverá participar e concluir o curso de \textbf{Inteligência Artificial Distribuída e Embarcada}, cujo objetivo é introduzir os conceitos de agentes embarcados~\cite{brandao_engineering_2021}, sistemas multiagentes e comunicação distribuída em plataformas físicas~\cite{pantoja_argo_2016}. O curso fornecerá os fundamentos teóricos e práticos necessários para compreender o funcionamento de um SMA aplicado a sistemas robóticos, incluindo o uso de arquiteturas Belief-Desire-Intention (BDI)~\cite{Bratman1987} e ferramentas de simulação e controle.
 
 \subsection{Adaptação do Otto para controle por um SMA}
 
 Nesta etapa, o candidato deverá transformar o robô Otto em uma plataforma controlada por agentes inteligentes, seguindo três subetapas principais:
 \begin{itemize}
-    \item \textbf{Instalar o chonOS na Raspberry Pi:} configurar o sistema operacional embarcado, garantindo a comunicação com o robô via porta serial;
-    \item \textbf{Adaptar o firmware do Arduino para compatibilidade com o Javino:} ajustar os comandos de controle e leitura de sensores, permitindo que o Otto seja controlado por mensagens oriundas do agente;
-    \item \textbf{Programar um SMA para controle e percepções:} desenvolver um agente (ou conjunto de agentes) capaz de enviar comandos ao robô, interpretar percepções sensoriais e reagir de forma autônoma, explorando comportamentos proativos e reativos.
+    \item \textbf{Instalar o chonOS na Raspberry Pi~\cite{souza_de_jesus_ide_2023}:} configurar o sistema operacional embarcado, garantindo a comunicação com o robô via porta serial;
+    \item \textbf{Adaptar o firmware do Arduino para compatibilidade com o Javino~\cite{lazarin_robotic-agent_2015}:} ajustar os comandos de controle e leitura de sensores, permitindo que o Otto seja controlado por mensagens oriundas do agente;
+    \item \textbf{Programar um SMA para controle e percepções~\cite{pantoja_spin-off_2023}:} desenvolver um agente (ou conjunto de agentes) capaz de enviar comandos ao robô, interpretar percepções sensoriais e reagir de forma autônoma, explorando comportamentos proativos e reativos.
 \end{itemize}
 
 \subsection{Relatório técnico e divulgação dos resultados}

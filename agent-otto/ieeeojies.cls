@@ -355,8 +355,8 @@
 \def\headName{}
 \def\@pubid{}
 \def\markboth#1#2{\def\leftmark{#1}\def\rightmark{#2}}
-\def\thevol{XX}
-\def\theyear{20XX}
+\def\thevol{01}
+\def\theyear{2025}
 \def\vol#1{\gdef\thevol{#1}}
 \def\year#1{\gdef\theyear{#1}}
 \def\pubid#1{\gdef\@pubid{#1}}
@@ -406,10 +406,10 @@
     
     \def\@oddhead{\parbox[t]{\textwidth}{\mbox{}
     \\[-.1mm]{\raisebox{-2pt}{
-    	\historyfont Date of publication xxxx 00, 0000, date of current version xxxx 00, 0000.	
+    	\historyfont Date of publication 2025 10, date of current version 2025 10.	
     	}}\hfill
     \\[-9.3mm]{\raisebox{-2pt}{
-    		\doifont Digital Object Identifier XX.XXXX/YYY.20XX.ZZZZZZZ	
+    		\doifont No Digital Object Identifier	
     }}\hfill
     \headerlogo\mbox{}\vspace*{-1.5mm}\par\hrulefill}
     
@@ -431,14 +431,14 @@
     
     \def\@evenhead{\parbox[t]{\textwidth}{\mbox{}\\[-6.3mm]\mbox{}\headerlogo\hfill\nheaderfont\color{ojiescolor}\headName{\raisebox{-2pt}{\,}}\color{black}\vspace*{-1.5mm}\par\hrulefill}}
      \def\@oddfoot{\raisebox{3pt}{%%
-       \hbox to 0pc{\hbox to \textwidth{{\footervolfont IEEE OPEN JOURNAL OF THE INDUSTRIAL ELECTRONICS SOCIETY. VOLUME\ \thevol, 20XX}\hfill\mbox{}}}%
+       \hbox to 0pc{\hbox to \textwidth{{\footervolfont IEEE OPEN JOURNAL OF THE INDUSTRIAL ELECTRONICS SOCIETY. VOLUME\ \thevol, 2025}\hfill\mbox{}}}%
        \hbox to 0pc{\hbox to \textwidth{\mbox{}\hfill{\footervolfont\@pubid}\hfill\mbox{}}}%
        \hbox to 0pc{\hbox to \textwidth{\mbox{}\hfill{\footerpagefont\thepage}}}%\hspace*{1.8pc}
        }}
      \def\@evenfoot{\raisebox{3pt}{%
        \hbox to 0pc{\hbox to \textwidth{{\footerpagefont\thepage}\hfill}\mbox{}}\hspace*{1.8pc}%\hspace*{1.8pc}
        \hspace*{-1.8pc}\hbox to 0pc{\hbox to \textwidth{\mbox{}\hfill{\footervolfont\@pubid}\hfill\mbox{}}}%
-       \hbox to 0pc{\hbox to \textwidth{\mbox{}\hfill{\footervolfont IEEE OPEN JOURNAL OF THE INDUSTRIAL ELECTRONICS SOCIETY. VOLUME\ \thevol, 20XX}}}\hspace*{1.8pc}% [updated here]
+       \hbox to 0pc{\hbox to \textwidth{\mbox{}\hfill{\footervolfont IEEE OPEN JOURNAL OF THE INDUSTRIAL ELECTRONICS SOCIETY. VOLUME\ \thevol, 2025}}}\hspace*{1.8pc}% [updated here]
      }}
   }
 % normal page
@@ -446,12 +446,12 @@
      \def\@oddhead{\parbox[t]{\textwidth}{\mbox{}\\[-6.3mm]{\raisebox{-2pt}{\headerfont\rightmark}}\hfill\headerlogoall\mbox{}\vspace*{-1.5mm}\par\hrulefill}}
      \def\@evenhead{\parbox[t]{\textwidth}{\mbox{}\\[-6.3mm]\mbox{}\headerlogoall\hfill{\raisebox{-2pt}{\headerfont\leftmark}}\vspace*{-1.5mm}\par\hrulefill}}
      \def\@oddfoot{\raisebox{8pt}{%
-       \hbox to 0pc{\hbox to \textwidth{{\footervolfont IEEE OPEN JOURNAL OF THE INDUSTRIAL ELECTRONICS SOCIETY. VOLUME\ \thevol, 20XX}\hfill\mbox{}}}%
+       \hbox to 0pc{\hbox to \textwidth{{\footervolfont IEEE OPEN JOURNAL OF THE INDUSTRIAL ELECTRONICS SOCIETY. VOLUME\ \thevol, 2025}\hfill\mbox{}}}%
        \hbox to 0pc{\hbox to \textwidth{\mbox{}\hfill{\footerpagefont\thepage}}}%\hspace*{1.8pc}
        }}
      \def\@evenfoot{\raisebox{8pt}{%
        \hbox to 0pc{\hbox to \textwidth{{\footerpagefont\thepage}\mbox{}\hfill}}\hspace*{1.8pc}%\hspace*{-1.8pc}
-       \hspace*{-1.8pc}\hbox to 0pc{\hbox to \textwidth{\mbox{}\hfill{\footervolfont IEEE OPEN JOURNAL OF THE INDUSTRIAL ELECTRONICS SOCIETY. VOLUME\ \thevol, 20XX}}}\hspace*{1.8pc}% [updated here]
+       \hspace*{-1.8pc}\hbox to 0pc{\hbox to \textwidth{\mbox{}\hfill{\footervolfont IEEE OPEN JOURNAL OF THE INDUSTRIAL ELECTRONICS SOCIETY. VOLUME\ \thevol, 2025}}}\hspace*{1.8pc}% [updated here]
      }}
   }
 \fi
