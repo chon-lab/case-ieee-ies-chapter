@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.6.7)  6 OCT 2025 17:04
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.6.7)  6 OCT 2025 18:24
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -255,29 +255,29 @@ File: l3backend-pdftex.def 2025-03-14 L3 backend support: PDF output (pdfTeX)
 ) (ojies-template.aux)
 \openout1 = `ojies-template.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
 
 -- Lines per column: 56 (exact).
-LaTeX Font Info:    Trying to load font information for T1+ptm on input line 10.
+LaTeX Font Info:    Trying to load font information for T1+ptm on input line 11.
 (/home/kadu/.miktex/texmfs/install/tex/latex/psnfss/t1ptm.fd
 File: t1ptm.fd 2001/06/04 font definitions for T1/ptm.
 )
 
 LaTeX Font Warning: Font shape `T1/ptm/n/n' undefined
-(Font)              using `T1/ptm/m/n' instead on input line 10.
+(Font)              using `T1/ptm/m/n' instead on input line 11.
 
 (/home/kadu/.miktex/texmfs/install/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
@@ -298,50 +298,28 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 48
  (/home/kadu/.miktex/texmfs/install/tex/latex/00miktex/epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
-LaTeX Font Info:    Trying to load font information for T1+phv on input line 33.
+LaTeX Font Info:    Trying to load font information for T1+phv on input line 25.
  (/home/kadu/.miktex/texmfs/install/tex/latex/psnfss/t1phv.fd
 File: t1phv.fd 2020/03/25 scalable font definitions for T1/phv.
 )
 
 LaTeX Font Warning: Font shape `T1/phv/n/n' undefined
-(Font)              using `T1/phv/m/n' instead on input line 33.
+(Font)              using `T1/phv/m/n' instead on input line 25.
 
-LaTeX Font Info:    Trying to load font information for U+msa on input line 36.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 27.
 (/home/kadu/.miktex/texmfs/install/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 36.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 27.
  (/home/kadu/.miktex/texmfs/install/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-Underfull \hbox (badness 8056) in paragraph at lines 56--61
- []\T1/phv/b/n/10 INDEX TERMS[]  \T1/ptm/n/n/10 En-ter key words or ph-ra-ses in alpha-be-ti-cal or-der, se-pa-ra-ted by com-mas.
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 56--61
- \T1/ptm/n/n/10 For a list of sug-ges-ted keywords, send a blank e-mail to keywords@ieee.org or vi-sit
- []
-
-LaTeX Font Info:    Calculating math sizes for size <9.9> on input line 65.
-LaTeX Font Info:    Calculating math sizes for size <6.6> on input line 65.
-
-Underfull \hbox (badness 1817) in paragraph at lines 69--75
-\T1/ptm/n/n/10 at $[]$
- []
-
-
-Underfull \vbox (badness 6792) has occurred while \output is active []
+LaTeX Font Info:    Calculating math sizes for size <9.9> on input line 39.
+LaTeX Font Info:    Calculating math sizes for size <6.6> on input line 39.
 
 
 
-
-Underfull \hbox (badness 1448) in paragraph at lines 92--97
-\T1/ptm/n/n/10 mo-di-fi-ers: ``zero-field-cooled mag-ne-ti-za-tion.'' Avoid dan-
- []
-
-
-Underfull \vbox (badness 1448) has occurred while \output is active []
+Underfull \vbox (badness 1158) has occurred while \output is active []
 
 
 
@@ -352,12 +330,12 @@ Package epstopdf Info: Source file: <logo.eps>
 (epstopdf)                    date: 2025-10-06 17:04:09
 (epstopdf)                    size: 6228 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=logo-eps-converted-to.pdf logo.eps>
-(epstopdf)             \includegraphics on input line 98.
+(epstopdf)             \includegraphics on input line 63.
 Package epstopdf Info: Output file is already uptodate.
 <logo-eps-converted-to.pdf, id=1, 138.5175pt x 100.375pt>
 File: logo-eps-converted-to.pdf Graphic file (type pdf)
 <use logo-eps-converted-to.pdf>
-Package pdftex.def Info: logo-eps-converted-to.pdf  used on input line 98.
+Package pdftex.def Info: logo-eps-converted-to.pdf  used on input line 63.
 (pdftex.def)             Requested size: 46.92004pt x 33.99991pt.
 
 Overfull \hbox (1.90002pt too wide) has occurred while \output is active
@@ -387,377 +365,13 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 [1{/home/kadu/.miktex/texmfs/install/fonts/enc/dvips/base/8r.enc}
 
 
- <./logo-eps-converted-to.pdf>]
-LaTeX Font Info:    Trying to load font information for T1+pcr on input line 139.
- (/home/kadu/.miktex/texmfs/install/tex/latex/psnfss/t1pcr.fd
-File: t1pcr.fd 2001/06/04 font definitions for T1/pcr.
-)
-
-LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 179.
-(/home/kadu/.miktex/texmfs/install/tex/latex/psnfss/ts1ptm.fd
-File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
-)
-
-LaTeX Font Warning: Font shape `TS1/ptm/n/n' undefined
-(Font)              using `TS1/ptm/m/n' instead
-(Font)              for symbol `textregistered' on input line 179.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 179--180
-\T1/ptm/n/n/10 Scho-la-rOne\TS1/ptm/m/n/10 ® \T1/ptm/n/n/10 Ma-nus-cripts, at:
- []
-
-
-Underfull \hbox (badness 1939) in paragraph at lines 181--182
-[]\T1/ptm/n/n/10 Format your ar-ti-cle for sub-mis-sion by using the
- []
-
-
-Underfull \hbox (badness 2261) in paragraph at lines 181--182
-\T1/ptm/n/n/10 ver-sion), avai-la-ble on the OJ-IES Web site at: 
- []
-
-
-Overfull \hbox (3.29341pt too wide) in paragraph at lines 183--184
-\T1/ptm/n/n/10 ($[]$).
- []
-
-
-
-Package epstopdf Info: Source file: <logo.eps>
-(epstopdf)                    date: 2025-10-06 17:03:40
-(epstopdf)                    size: 89567 bytes
-(epstopdf)             Output file: <logo-eps-converted-to.pdf>
-(epstopdf)                    date: 2025-10-06 17:04:09
-(epstopdf)                    size: 6228 bytes
-(epstopdf)             Command: <miktex-epstopdf --outfile=logo-eps-converted-to.pdf logo.eps>
-(epstopdf)             \includegraphics on input line 198.
-Package epstopdf Info: Output file is already uptodate.
-File: logo-eps-converted-to.pdf Graphic file (type pdf)
-<use logo-eps-converted-to.pdf>
-Package pdftex.def Info: logo-eps-converted-to.pdf  used on input line 198.
-(pdftex.def)             Requested size: 24.11993pt x 17.47705pt.
-
-Overfull \hbox (505.12177pt too wide) has occurred while \output is active
-[]
- []
-
-
-Overfull \hbox (505.12177pt too wide) has occurred while \output is active
-[]
- []
-
-
-Underfull \hbox (badness 10000) has occurred while \output is active
-[]
- []
-
-[2]
-Package epstopdf Info: Source file: <fig1.eps>
-(epstopdf)                    date: 2025-10-06 17:03:40
-(epstopdf)                    size: 1482166 bytes
-(epstopdf)             Output file: <fig1-eps-converted-to.pdf>
-(epstopdf)                    date: 2025-10-06 17:04:10
-(epstopdf)                    size: 65388 bytes
-(epstopdf)             Command: <miktex-epstopdf --outfile=fig1-eps-converted-to.pdf fig1.eps>
-(epstopdf)             \includegraphics on input line 223.
-Package epstopdf Info: Output file is already uptodate.
-<fig1-eps-converted-to.pdf, id=22, 731.73375pt x 555.07375pt>
-File: fig1-eps-converted-to.pdf Graphic file (type pdf)
-<use fig1-eps-converted-to.pdf>
-Package pdftex.def Info: fig1-eps-converted-to.pdf  used on input line 223.
-(pdftex.def)             Requested size: 237.40784pt x 180.0919pt.
-
+ <./logo-eps-converted-to.pdf>] (ojies-template.bbl
 
 LaTeX Font Warning: Font shape `T1/ptm/n/it' undefined
-(Font)              using `T1/ptm/n/n' instead on input line 239.
-
-
-Underfull \hbox (badness 4954) in paragraph at lines 243--244
-[]\T1/ptm/n/n/10 A ge-ne-ral IEEE sty-le-guide is avai-la-ble at $[]$
- []
-
-
-
-
-Underfull \hbox (badness 4765) in paragraph at lines 299--300
-[]\T1/ptm/m/n/8 1 erg/(G$\OMS/cmsy/m/n/8 ^^A$\T1/ptm/m/n/8 g) $\OT1/cmr/m/n/8 =$ \T1/ptm/m/n/8 1 emu/g $\OMS/cmsy/m/n/8 !$ \T1/ptm/m/n/8 1
- []
-
-
-Overfull \hbox (14.32645pt too wide) in paragraph at lines 273--333
-[][]
- []
-
-
-
-Package epstopdf Info: Source file: <logo.eps>
-(epstopdf)                    date: 2025-10-06 17:03:40
-(epstopdf)                    size: 89567 bytes
-(epstopdf)             Output file: <logo-eps-converted-to.pdf>
-(epstopdf)                    date: 2025-10-06 17:04:09
-(epstopdf)                    size: 6228 bytes
-(epstopdf)             Command: <miktex-epstopdf --outfile=logo-eps-converted-to.pdf logo.eps>
-(epstopdf)             \includegraphics on input line 340.
-Package epstopdf Info: Output file is already uptodate.
-File: logo-eps-converted-to.pdf Graphic file (type pdf)
-<use logo-eps-converted-to.pdf>
-Package pdftex.def Info: logo-eps-converted-to.pdf  used on input line 340.
-(pdftex.def)             Requested size: 24.11993pt x 17.47705pt.
-
-Overfull \hbox (505.12177pt too wide) has occurred while \output is active
-[]
- []
-
-
-Overfull \hbox (505.12177pt too wide) has occurred while \output is active
-[]
- []
-
-
-Underfull \hbox (badness 10000) has occurred while \output is active
-[]
- []
-
-[3 <./fig1-eps-converted-to.pdf>]
-
-
-
-Package epstopdf Info: Source file: <logo.eps>
-(epstopdf)                    date: 2025-10-06 17:03:40
-(epstopdf)                    size: 89567 bytes
-(epstopdf)             Output file: <logo-eps-converted-to.pdf>
-(epstopdf)                    date: 2025-10-06 17:04:09
-(epstopdf)                    size: 6228 bytes
-(epstopdf)             Command: <miktex-epstopdf --outfile=logo-eps-converted-to.pdf logo.eps>
-(epstopdf)             \includegraphics on input line 443.
-Package epstopdf Info: Output file is already uptodate.
-File: logo-eps-converted-to.pdf Graphic file (type pdf)
-<use logo-eps-converted-to.pdf>
-Package pdftex.def Info: logo-eps-converted-to.pdf  used on input line 443.
-(pdftex.def)             Requested size: 24.11993pt x 17.47705pt.
-
-Overfull \hbox (505.12177pt too wide) has occurred while \output is active
-[]
- []
-
-
-Overfull \hbox (505.12177pt too wide) has occurred while \output is active
-[]
- []
-
-
-Underfull \hbox (badness 10000) has occurred while \output is active
-[]
- []
-
-[4]
-
-
-
-Package epstopdf Info: Source file: <logo.eps>
-(epstopdf)                    date: 2025-10-06 17:03:40
-(epstopdf)                    size: 89567 bytes
-(epstopdf)             Output file: <logo-eps-converted-to.pdf>
-(epstopdf)                    date: 2025-10-06 17:04:09
-(epstopdf)                    size: 6228 bytes
-(epstopdf)             Command: <miktex-epstopdf --outfile=logo-eps-converted-to.pdf logo.eps>
-(epstopdf)             \includegraphics on input line 546.
-Package epstopdf Info: Output file is already uptodate.
-File: logo-eps-converted-to.pdf Graphic file (type pdf)
-<use logo-eps-converted-to.pdf>
-Package pdftex.def Info: logo-eps-converted-to.pdf  used on input line 546.
-(pdftex.def)             Requested size: 24.11993pt x 17.47705pt.
-
-Overfull \hbox (505.12177pt too wide) has occurred while \output is active
-[]
- []
-
-
-Overfull \hbox (505.12177pt too wide) has occurred while \output is active
-[]
- []
-
-
-Underfull \hbox (badness 10000) has occurred while \output is active
-[]
- []
-
-[5]
-LaTeX Font Info:    Trying to load font information for TS1+phv on input line 557.
- (/home/kadu/.miktex/texmfs/install/tex/latex/psnfss/ts1phv.fd
-File: ts1phv.fd 2020/03/25 scalable font definitions for TS1/phv.
-)
-Underfull \hbox (badness 4779) in paragraph at lines 558--563
-\T1/ptm/n/it/10 Contributions to the Tran-sac-ti-ons, Jour-nals, and Let-
- []
-
-
-Underfull \hbox (badness 4940) in paragraph at lines 558--563
-\T1/ptm/n/it/10 ters may be sub-mit-ted elec-tro-ni-cally on IEEE's on-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 558--563
-\T1/ptm/n/it/10 line ma-nus-cript sub-mis-sion and peer-review sys-tem,
- []
-
-
-Underfull \hbox (badness 4886) in paragraph at lines 558--563
-\T1/ptm/n/it/10 Scho-la-rOne\TS1/ptm/n/n/10 ® \T1/ptm/n/it/10 Ma-nus-cripts. You can get a lis-ting of
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 558--563
-\T1/ptm/n/it/10 the pu-bli-ca-ti-ons that par-ti-ci-pate in Scho-la-rOne at
- []
-
-
-Overfull \hbox (2.73315pt too wide) in paragraph at lines 558--563
-[]$
- []
-
-
-
-
-
-Package epstopdf Info: Source file: <logo.eps>
-(epstopdf)                    date: 2025-10-06 17:03:40
-(epstopdf)                    size: 89567 bytes
-(epstopdf)             Output file: <logo-eps-converted-to.pdf>
-(epstopdf)                    date: 2025-10-06 17:04:09
-(epstopdf)                    size: 6228 bytes
-(epstopdf)             Command: <miktex-epstopdf --outfile=logo-eps-converted-to.pdf logo.eps>
-(epstopdf)             \includegraphics on input line 643.
-Package epstopdf Info: Output file is already uptodate.
-File: logo-eps-converted-to.pdf Graphic file (type pdf)
-<use logo-eps-converted-to.pdf>
-Package pdftex.def Info: logo-eps-converted-to.pdf  used on input line 643.
-(pdftex.def)             Requested size: 24.11993pt x 17.47705pt.
-
-Overfull \hbox (505.12177pt too wide) has occurred while \output is active
-[]
- []
-
-
-Overfull \hbox (505.12177pt too wide) has occurred while \output is active
-[]
- []
-
-
-Underfull \hbox (badness 10000) has occurred while \output is active
-[]
- []
-
-[6]
-Underfull \hbox (badness 2050) in paragraph at lines 681--684
-\T1/ptm/n/it/10 J. K. Author, ``Name of pa-per,'' Ab-brev. Ti-tle of
- []
-
-
-Underfull \hbox (badness 4168) in paragraph at lines 681--684
-\T1/ptm/n/it/10 Pe-ri-o-di-cal, vol. $\OML/cmm/m/it/10 x$\T1/ptm/n/it/10 , no. $\OML/cmm/m/it/10 x$\T1/ptm/n/it/10 , pp. xxx--xxx, Ab-brev.
- []
-
-
-Underfull \hbox (badness 1394) in paragraph at lines 685--688
-\T1/ptm/n/it/10 J.K. Author. (year, month). Ti-tle. pre-sen-ted at ab-
- []
-
-
-
-
-Underfull \hbox (badness 1406) in paragraph at lines 722--723
-[]\T1/ptm/n/it/10 J. K. Author, pri-vate com-mu-ni-ca-tion, Ab-brev.
- []
-
-
-
-Package epstopdf Info: Source file: <logo.eps>
-(epstopdf)                    date: 2025-10-06 17:03:40
-(epstopdf)                    size: 89567 bytes
-(epstopdf)             Output file: <logo-eps-converted-to.pdf>
-(epstopdf)                    date: 2025-10-06 17:04:09
-(epstopdf)                    size: 6228 bytes
-(epstopdf)             Command: <miktex-epstopdf --outfile=logo-eps-converted-to.pdf logo.eps>
-(epstopdf)             \includegraphics on input line 732.
-Package epstopdf Info: Output file is already uptodate.
-File: logo-eps-converted-to.pdf Graphic file (type pdf)
-<use logo-eps-converted-to.pdf>
-Package pdftex.def Info: logo-eps-converted-to.pdf  used on input line 732.
-(pdftex.def)             Requested size: 24.11993pt x 17.47705pt.
-
-Overfull \hbox (505.12177pt too wide) has occurred while \output is active
-[]
- []
-
-
-Overfull \hbox (505.12177pt too wide) has occurred while \output is active
-[]
- []
-
-
-Underfull \hbox (badness 10000) has occurred while \output is active
-[]
- []
-
-[7] (ojies-template.bbl
+(Font)              using `T1/ptm/n/n' instead on input line 25.
 
 )
-Package epstopdf Info: Source file: <a1.eps>
-(epstopdf)                    date: 2025-10-06 17:03:40
-(epstopdf)                    size: 233823 bytes
-(epstopdf)             Output file: <a1-eps-converted-to.pdf>
-(epstopdf)                    date: 2025-10-06 17:04:11
-(epstopdf)                    size: 33772 bytes
-(epstopdf)             Command: <miktex-epstopdf --outfile=a1-eps-converted-to.pdf a1.eps>
-(epstopdf)             \includegraphics on input line 805.
-Package epstopdf Info: Output file is already uptodate.
-<a1-eps-converted-to.pdf, id=53, 72.27pt x 90.3375pt>
-File: a1-eps-converted-to.pdf Graphic file (type pdf)
-<use a1-eps-converted-to.pdf>
-Package pdftex.def Info: a1-eps-converted-to.pdf  used on input line 805.
-(pdftex.def)             Requested size: 72.2709pt x 90.33864pt.
-Package epstopdf Info: Source file: <a1.eps>
-(epstopdf)                    date: 2025-10-06 17:03:40
-(epstopdf)                    size: 233823 bytes
-(epstopdf)             Output file: <a1-eps-converted-to.pdf>
-(epstopdf)                    date: 2025-10-06 17:04:11
-(epstopdf)                    size: 33772 bytes
-(epstopdf)             Command: <miktex-epstopdf --outfile=a1-eps-converted-to.pdf a1.eps>
-(epstopdf)             \includegraphics on input line 805.
-Package epstopdf Info: Output file is already uptodate.
-File: a1-eps-converted-to.pdf Graphic file (type pdf)
-<use a1-eps-converted-to.pdf>
-Package pdftex.def Info: a1-eps-converted-to.pdf  used on input line 805.
-(pdftex.def)             Requested size: 72.2709pt x 90.33864pt.
-Package epstopdf Info: Source file: <a2.eps>
-(epstopdf)                    date: 2025-10-06 17:03:40
-(epstopdf)                    size: 233823 bytes
-(epstopdf)             Output file: <a2-eps-converted-to.pdf>
-(epstopdf)                    date: 2025-10-06 17:04:12
-(epstopdf)                    size: 30232 bytes
-(epstopdf)             Command: <miktex-epstopdf --outfile=a2-eps-converted-to.pdf a2.eps>
-(epstopdf)             \includegraphics on input line 831.
-Package epstopdf Info: Output file is already uptodate.
-<a2-eps-converted-to.pdf, id=56, 72.27pt x 90.3375pt>
-File: a2-eps-converted-to.pdf Graphic file (type pdf)
-<use a2-eps-converted-to.pdf>
-Package pdftex.def Info: a2-eps-converted-to.pdf  used on input line 831.
-(pdftex.def)             Requested size: 72.2709pt x 90.33864pt.
-Package epstopdf Info: Source file: <a2.eps>
-(epstopdf)                    date: 2025-10-06 17:03:40
-(epstopdf)                    size: 233823 bytes
-(epstopdf)             Output file: <a2-eps-converted-to.pdf>
-(epstopdf)                    date: 2025-10-06 17:04:12
-(epstopdf)                    size: 30232 bytes
-(epstopdf)             Command: <miktex-epstopdf --outfile=a2-eps-converted-to.pdf a2.eps>
-(epstopdf)             \includegraphics on input line 831.
-Package epstopdf Info: Output file is already uptodate.
-File: a2-eps-converted-to.pdf Graphic file (type pdf)
-<use a2-eps-converted-to.pdf>
-Package pdftex.def Info: a2-eps-converted-to.pdf  used on input line 831.
-(pdftex.def)             Requested size: 72.2709pt x 90.33864pt.
+
 
 
 Package epstopdf Info: Source file: <logo.eps>
@@ -767,11 +381,11 @@ Package epstopdf Info: Source file: <logo.eps>
 (epstopdf)                    date: 2025-10-06 17:04:09
 (epstopdf)                    size: 6228 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=logo-eps-converted-to.pdf logo.eps>
-(epstopdf)             \includegraphics on input line 844.
+(epstopdf)             \includegraphics on input line 101.
 Package epstopdf Info: Output file is already uptodate.
 File: logo-eps-converted-to.pdf Graphic file (type pdf)
 <use logo-eps-converted-to.pdf>
-Package pdftex.def Info: logo-eps-converted-to.pdf  used on input line 844.
+Package pdftex.def Info: logo-eps-converted-to.pdf  used on input line 101.
 (pdftex.def)             Requested size: 24.11993pt x 17.47705pt.
 
 Overfull \hbox (505.12177pt too wide) has occurred while \output is active
@@ -788,69 +402,9 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 []
  []
 
-[8 <./a1-eps-converted-to.pdf> <./a2-eps-converted-to.pdf>]
-Package epstopdf Info: Source file: <a3.eps>
-(epstopdf)                    date: 2025-10-06 17:03:40
-(epstopdf)                    size: 233823 bytes
-(epstopdf)             Output file: <a3-eps-converted-to.pdf>
-(epstopdf)                    date: 2025-10-06 17:04:12
-(epstopdf)                    size: 32839 bytes
-(epstopdf)             Command: <miktex-epstopdf --outfile=a3-eps-converted-to.pdf a3.eps>
-(epstopdf)             \includegraphics on input line 844.
-Package epstopdf Info: Output file is already uptodate.
-<a3-eps-converted-to.pdf, id=68, 72.27pt x 90.3375pt>
-File: a3-eps-converted-to.pdf Graphic file (type pdf)
-<use a3-eps-converted-to.pdf>
-Package pdftex.def Info: a3-eps-converted-to.pdf  used on input line 844.
-(pdftex.def)             Requested size: 72.2709pt x 90.33864pt.
-Package epstopdf Info: Source file: <a3.eps>
-(epstopdf)                    date: 2025-10-06 17:03:40
-(epstopdf)                    size: 233823 bytes
-(epstopdf)             Output file: <a3-eps-converted-to.pdf>
-(epstopdf)                    date: 2025-10-06 17:04:12
-(epstopdf)                    size: 32839 bytes
-(epstopdf)             Command: <miktex-epstopdf --outfile=a3-eps-converted-to.pdf a3.eps>
-(epstopdf)             \includegraphics on input line 844.
-Package epstopdf Info: Output file is already uptodate.
-File: a3-eps-converted-to.pdf Graphic file (type pdf)
-<use a3-eps-converted-to.pdf>
-Package pdftex.def Info: a3-eps-converted-to.pdf  used on input line 844.
-(pdftex.def)             Requested size: 72.2709pt x 90.33864pt.
+[2
 
-
-
-
-Package epstopdf Info: Source file: <logo.eps>
-(epstopdf)                    date: 2025-10-06 17:03:40
-(epstopdf)                    size: 89567 bytes
-(epstopdf)             Output file: <logo-eps-converted-to.pdf>
-(epstopdf)                    date: 2025-10-06 17:04:09
-(epstopdf)                    size: 6228 bytes
-(epstopdf)             Command: <miktex-epstopdf --outfile=logo-eps-converted-to.pdf logo.eps>
-(epstopdf)             \includegraphics on input line 864.
-Package epstopdf Info: Output file is already uptodate.
-File: logo-eps-converted-to.pdf Graphic file (type pdf)
-<use logo-eps-converted-to.pdf>
-Package pdftex.def Info: logo-eps-converted-to.pdf  used on input line 864.
-(pdftex.def)             Requested size: 24.11993pt x 17.47705pt.
-
-Overfull \hbox (505.12177pt too wide) has occurred while \output is active
-[]
- []
-
-
-Overfull \hbox (505.12177pt too wide) has occurred while \output is active
-[]
- []
-
-
-Underfull \hbox (badness 10000) has occurred while \output is active
-[]
- []
-
-[9
-
- <./a3-eps-converted-to.pdf>] (ojies-template.aux)
+] (ojies-template.aux)
  ***********
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-04-29>
@@ -861,17 +415,17 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 4612 strings out of 471812
- 72227 string characters out of 5519460
- 473870 words of memory out of 5000000
- 31097 multiletter control sequences out of 15000+600000
- 732127 words of font info for 178 fonts, out of 8000000 for 9000
+ 4387 strings out of 471812
+ 68996 string characters out of 5519460
+ 454531 words of memory out of 5000000
+ 30905 multiletter control sequences out of 15000+600000
+ 704118 words of font info for 142 fonts, out of 8000000 for 9000
  16 hyphenation exceptions out of 8191
- 57i,13n,65p,875b,536s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</home/kadu/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmmi10.pfb></home/kadu/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmmi6.pfb></home/kadu/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmmi7.pfb></home/kadu/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmmi8.pfb></home/kadu/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmr10.pfb></home/kadu/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmr6.pfb></home/kadu/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmr7.pfb></home/kadu/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmr8.pfb></home/kadu/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmsy10.pfb></home/kadu/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmsy6.pfb></home/kadu/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmsy7.pfb></home/kadu/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmsy8.pfb></home/kadu/.miktex/texmfs/install/fonts/type1/urw/courier/ucrr8a.pfb></home/kadu/.miktex/texmfs/install/fonts/type1/urw/helvetic/uhvb8a.pfb></home/kadu/.miktex/texmfs/install/fonts/type1/urw/helvetic/uhvbo8a.pfb></home/kadu/.miktex/texmfs/install/fonts/type1/urw/helvetic/uhvr8a.pfb></home/kadu/.miktex/texmfs/install/fonts/type1/urw/helvetic/uhvro8a.pfb></home/kadu/.miktex/texmfs/install/fonts/type1/urw/times/utmb8a.pfb></home/kadu/.miktex/texmfs/install/fonts/type1/urw/times/utmbi8a.pfb></home/kadu/.miktex/texmfs/install/fonts/type1/urw/times/utmr8a.pfb></home/kadu/.miktex/texmfs/install/fonts/type1/urw/times/utmri8a.pfb>
-Output written on ojies-template.pdf (9 pages, 427953 bytes).
+ 57i,12n,65p,1754b,403s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</home/kadu/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmsy7.pfb></home/kadu/.miktex/texmfs/install/fonts/type1/urw/helvetic/uhvb8a.pfb></home/kadu/.miktex/texmfs/install/fonts/type1/urw/helvetic/uhvbo8a.pfb></home/kadu/.miktex/texmfs/install/fonts/type1/urw/helvetic/uhvr8a.pfb></home/kadu/.miktex/texmfs/install/fonts/type1/urw/helvetic/uhvro8a.pfb></home/kadu/.miktex/texmfs/install/fonts/type1/urw/times/utmb8a.pfb></home/kadu/.miktex/texmfs/install/fonts/type1/urw/times/utmr8a.pfb></home/kadu/.miktex/texmfs/install/fonts/type1/urw/times/utmri8a.pfb>
+Output written on ojies-template.pdf (2 pages, 104907 bytes).
 PDF statistics:
- 164 PDF objects out of 1000 (max. 8388607)
+ 53 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 62 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 6 words of extra memory for PDF output out of 10000 (max. 10000000)
 
