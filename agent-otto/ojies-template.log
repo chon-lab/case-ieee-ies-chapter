@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.6.7)  6 OCT 2025 18:24
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.6.7)  6 OCT 2025 18:29
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -327,7 +327,7 @@ Package epstopdf Info: Source file: <logo.eps>
 (epstopdf)                    date: 2025-10-06 17:03:40
 (epstopdf)                    size: 89567 bytes
 (epstopdf)             Output file: <logo-eps-converted-to.pdf>
-(epstopdf)                    date: 2025-10-06 17:04:09
+(epstopdf)                    date: 2025-10-06 18:29:14
 (epstopdf)                    size: 6228 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=logo-eps-converted-to.pdf logo.eps>
 (epstopdf)             \includegraphics on input line 63.
@@ -378,7 +378,7 @@ Package epstopdf Info: Source file: <logo.eps>
 (epstopdf)                    date: 2025-10-06 17:03:40
 (epstopdf)                    size: 89567 bytes
 (epstopdf)             Output file: <logo-eps-converted-to.pdf>
-(epstopdf)                    date: 2025-10-06 17:04:09
+(epstopdf)                    date: 2025-10-06 18:29:14
 (epstopdf)                    size: 6228 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=logo-eps-converted-to.pdf logo.eps>
 (epstopdf)             \includegraphics on input line 101.

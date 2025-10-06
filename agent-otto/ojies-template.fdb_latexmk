@@ -1,14 +1,14 @@
 # Fdb version 4
-["bibtex ojies-template"] 1759785602.02738 "ojies-template.aux" "ojies-template.bbl" "ojies-template" 1759785851.51625 0
+["bibtex ojies-template"] 1759785602.02738 "ojies-template.aux" "ojies-template.bbl" "ojies-template" 1759786161.69867 0
   "./bibliography/IEEEabrv.bib" 1759781020.56274 17394 5f68ac6bd88a4483a55f39046634d899 ""
   "./bibliography/IEEEtran.bst" 1759781020.56414 59215 bc5380b3434a66b895bbc75d3d380540 ""
   "./bibliography/mybibfile.bib" 1759783804.56831 853 e6bac5591d8beb41d389183b98fc9531 ""
-  "ojies-template.aux" 1759785850.7885 1212 8365680990871b7e3263948fc34a204e "pdflatex"
+  "ojies-template.aux" 1759786160.977 1212 8365680990871b7e3263948fc34a204e "pdflatex"
   (generated)
   "ojies-template.bbl"
   "ojies-template.blg"
   (rewritten before read)
-["pdflatex"] 1759785850.46574 "/home/kadu/Projects/case-ieee-ies-chapter/agent-otto/ojies-template.tex" "ojies-template.pdf" "ojies-template" 1759785851.51654 0
+["pdflatex"] 1759786160.66136 "/home/kadu/Projects/case-ieee-ies-chapter/agent-otto/ojies-template.tex" "ojies-template.pdf" "ojies-template" 1759786161.69886 0
   "/home/kadu/.miktex/texmfs/data/fonts/map/pdftex/pdftex.map" 1759781049.53392 32376 69b5a5592a4df44038e0c5a858e9e56b ""
   "/home/kadu/.miktex/texmfs/data/miktex/data/le/pdftex/pdflatex.fmt" 1749335848.86955 10066384 96add5a139614de128f9a15ed3bdd465 ""
   "/home/kadu/.miktex/texmfs/install/fonts/enc/dvips/base/8r.enc" 1749331142.62922 4993 1194fb36dfcb11d9ae9802f2b00b60a3 ""
@@ -88,13 +88,13 @@
   "/home/kadu/.miktex/texmfs/install/tex/latex/psnfss/t1phv.fd" 1749331100.9025 1536 0db4718053ae05eb06859828cc1f372c ""
   "/home/kadu/.miktex/texmfs/install/tex/latex/psnfss/t1ptm.fd" 1749331100.9025 817 8cd6152a28b34e24c35ade83b9bcf4f1 ""
   "/home/kadu/.miktex/texmfs/install/tex/latex/xkeyval/xkeyval.sty" 1749331114.54309 4937 4ce600ce9bd4ec84d0250eb6892fcf4f ""
-  "/home/kadu/Projects/case-ieee-ies-chapter/agent-otto/ojies-template.tex" 1759785850.01404 10971 4444216bf512770e2a09d951d2368649 ""
+  "/home/kadu/Projects/case-ieee-ies-chapter/agent-otto/ojies-template.tex" 1759786160.20336 10971 4444216bf512770e2a09d951d2368649 ""
   "IEEEtran.cls" 1759781020.61973 281957 5b2e4fa15b0f7eabb840ebf67df4c0f7 ""
   "ieeeojies.cls" 1759781020.61238 45567 80d25d24fb532f6da326453327680820 ""
   "logo.eps" 1759781020.62606 89567 646d3c53028ec4140f052418ac817608 ""
-  "ojies-template.aux" 1759785850.7885 1212 8365680990871b7e3263948fc34a204e "pdflatex"
+  "ojies-template.aux" 1759786160.977 1212 8365680990871b7e3263948fc34a204e "pdflatex"
   "ojies-template.bbl" 1759785602.16251 1477 154ad54d22cc7380d2cdfa33997604f4 "bibtex ojies-template"
-  "ojies-template.tex" 1759785850.01404 10971 4444216bf512770e2a09d951d2368649 ""
+  "ojies-template.tex" 1759786160.20336 10971 4444216bf512770e2a09d951d2368649 ""
   (generated)
   "ojies-template.aux"
   "ojies-template.log"
